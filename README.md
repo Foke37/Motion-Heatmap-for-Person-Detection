@@ -1,4 +1,4 @@
-# Person-Heatmaps-using-OpenCV-and-YOLOv5
+# Motion-Heatmap-for-Person-Detection
 
 ## using OpenCV and YOLOv5 
 
