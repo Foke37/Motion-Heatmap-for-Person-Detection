@@ -1,0 +1,1 @@
+cv2.rectangle(image, (x_out-10,y_out-10), (x_out+10,y_out+10), (0,0,255), 5)
